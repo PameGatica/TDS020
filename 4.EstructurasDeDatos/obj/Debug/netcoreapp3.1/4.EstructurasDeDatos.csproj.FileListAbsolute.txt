@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\obj\Debug\netcoreapp3.1\4.EstructurasDeDatos.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\obj\Debug\netcoreapp3.1\4.EstructurasDeDatos.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\obj\Debug\netcoreapp3.1\4.EstructurasDeDatos.AssemblyInfo.cs
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\obj\Debug\netcoreapp3.1\4.EstructurasDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\bin\Debug\netcoreapp3.1\4.EstructurasDeDatos.exe
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\bin\Debug\netcoreapp3.1\4.EstructurasDeDatos.deps.json
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\bin\Debug\netcoreapp3.1\4.EstructurasDeDatos.runtimeconfig.json
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\bin\Debug\netcoreapp3.1\4.EstructurasDeDatos.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\bin\Debug\netcoreapp3.1\4.EstructurasDeDatos.dll
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\bin\Debug\netcoreapp3.1\4.EstructurasDeDatos.pdb
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\obj\Debug\netcoreapp3.1\4.EstructurasDeDatos.dll
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\obj\Debug\netcoreapp3.1\4.EstructurasDeDatos.pdb
+C:\Users\alexi\source\repos\TDS020\4.EstructurasDeDatos\obj\Debug\netcoreapp3.1\4.EstructurasDeDatos.genruntimeconfig.cache

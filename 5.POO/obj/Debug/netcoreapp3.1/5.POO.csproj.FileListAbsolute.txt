@@ -1,0 +1,16 @@
+C:\Users\alexi\source\repos\TDS020\5.POO\bin\Debug\netcoreapp3.1\5.POO.exe
+C:\Users\alexi\source\repos\TDS020\5.POO\bin\Debug\netcoreapp3.1\5.POO.deps.json
+C:\Users\alexi\source\repos\TDS020\5.POO\bin\Debug\netcoreapp3.1\5.POO.runtimeconfig.json
+C:\Users\alexi\source\repos\TDS020\5.POO\bin\Debug\netcoreapp3.1\5.POO.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\TDS020\5.POO\bin\Debug\netcoreapp3.1\5.POO.dll
+C:\Users\alexi\source\repos\TDS020\5.POO\bin\Debug\netcoreapp3.1\5.POO.pdb
+C:\Users\alexi\source\repos\TDS020\5.POO\bin\Debug\netcoreapp3.1\5.BibliotecaDeClases.dll
+C:\Users\alexi\source\repos\TDS020\5.POO\bin\Debug\netcoreapp3.1\5.BibliotecaDeClases.pdb
+C:\Users\alexi\source\repos\TDS020\5.POO\obj\Debug\netcoreapp3.1\5.POO.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\TDS020\5.POO\obj\Debug\netcoreapp3.1\5.POO.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\TDS020\5.POO\obj\Debug\netcoreapp3.1\5.POO.AssemblyInfo.cs
+C:\Users\alexi\source\repos\TDS020\5.POO\obj\Debug\netcoreapp3.1\5.POO.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\TDS020\5.POO\obj\Debug\netcoreapp3.1\5.POO.csproj.CopyComplete
+C:\Users\alexi\source\repos\TDS020\5.POO\obj\Debug\netcoreapp3.1\5.POO.dll
+C:\Users\alexi\source\repos\TDS020\5.POO\obj\Debug\netcoreapp3.1\5.POO.pdb
+C:\Users\alexi\source\repos\TDS020\5.POO\obj\Debug\netcoreapp3.1\5.POO.genruntimeconfig.cache
